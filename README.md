@@ -18,7 +18,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://github.com/Jeffo18
 - [X] 2.3 - Internet - Entendendo como ela funciona
 
 ##### Bloco 3: [Introdução à HTML e CSS](https://github.com/paulohbsimoes/trybe-exercises/tree/master/01-fundamentos/bloco-03-introducao-a-html-e-css)
-- [ ] 3.1 - Introdução - HTML & CSS
+- [x] 3.1 - Introdução - HTML & CSS
 - [ ] 3.1 - HTML & CSS - Estruturas de página
 - [ ] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [ ] 3.3 - HTML & CSS - Seletores e posicionamento
